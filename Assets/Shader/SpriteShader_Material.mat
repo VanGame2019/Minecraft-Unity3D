@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteShader_Material
+  m_Shader: {fileID: -6465566751694194690, guid: c8c945ccd2abd084d97a0da775946ca5,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_BB4BC04C:
+        m_Texture: {fileID: 2800000, guid: ddaabb072f4eb6349a536fd06f1ed758, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_4CAD8B04_Out_0:
+        m_Texture: {fileID: 2800000, guid: 8449360471f8cfa45ac98d17e2c2a869, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_5824E450_Out_0:
+        m_Texture: {fileID: 2800000, guid: 8449360471f8cfa45ac98d17e2c2a869, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_6514173E_Out_0:
+        m_Texture: {fileID: 2800000, guid: 8449360471f8cfa45ac98d17e2c2a869, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_6A1F3B6F_Out_0:
+        m_Texture: {fileID: 2800000, guid: d2b1432e02955d64bacd6b3c57abfcd8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_C6D6372_Out_0:
+        m_Texture: {fileID: 2800000, guid: 8449360471f8cfa45ac98d17e2c2a869, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_D27E7403_Out_0:
+        m_Texture: {fileID: 2800000, guid: c40e77cdd2d552c49acf547e4e3acd40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_EF984DBF_Out_0:
+        m_Texture: {fileID: 2800000, guid: 8449360471f8cfa45ac98d17e2c2a869, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_652899FA: 5
+    m_Colors:
+    - Color_400EEA6F: {r: 0.8820755, g: 0.976415, b: 1, a: 1}

@@ -22,6 +22,11 @@ public class TerrainGenerator : MonoBehaviour
     void Start()
     {
         LoadChunks(true);
+
+        for (int i = 0; i < 30; i++)
+        {
+            Debug.Log(noise.GetSimplex(i,0));
+        }
     }
 
 
